@@ -19,18 +19,20 @@ Before analyzing the data, I used Python and Pandas to clean the raw dataset:
 ## 📊 Key Insights & Visualizations
 
 ### 1. User Demographics
-The core user base is heavily skewed toward the **35-44 age bracket**, which accounts for the vast majority of total rentals. 
-*(To add your image here in GitHub: just drag and drop your Column Chart image right into the editor window!)*
+The core user base is heavily skewed toward the **35-44 age bracket**, which accounts for the vast majority of total rentals.
 
 ### 2. Weekday Commuters vs. Weekend Explorers
 When breaking down rentals by day of the week and user type, a clear pattern emerges:
 * **Subscribers** (annual members) dominate the weekdays, indicating they primarily use the bikes for daily commuting.
 * **Customers** (one-time/short-term users) see a massive spike on Saturdays and Sundays.
-*(Drag and drop your Grouped Bar Chart here)*
+*(<img width="1018" height="553" alt="NewYork Citi Bikes chart 1" src="https://github.com/user-attachments/assets/3238c5c5-d473-4a2b-b1be-a6c0ce38d733" />
+)*
 
 ### 3. The 75+ Age Group Anomaly
 While most age groups average similar trip durations, riders in the **75+ age bracket** have a massive spike, averaging trips of over 49 minutes. 
-*(Drag and drop your Line Chart here)*
+*(<img width="845" height="553" alt="NewYork Citi Bikes Chart 2" src="https://github.com/user-attachments/assets/fae70e22-18c2-43a9-850a-cf2b14874a48" />
+)*
 
 ### 4. Top Pick-Up Locations
-*(Drag and drop your Horizontal Bar Chart here showing the top 10 stations)*
+*(<img width="937" height="707" alt="NewYork Citi Bikes chart 3" src="https://github.com/user-attachments/assets/44af7e8e-351d-4591-8384-19d7390da594" />
+)*
